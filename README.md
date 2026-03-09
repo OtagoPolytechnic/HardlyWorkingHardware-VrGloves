@@ -39,8 +39,8 @@ Glove breathability
 with how active the virtual reality medium is complaints have been made about the current implementation of gloves to be hardly bearable to use with the gloves trapping sweat and heat and not providing enough airflow to keep the hands cool and dry. This can be fixed by keeping material minimal. The glove will need to be structural enough to hold and mount electronic components to it without completely covering the whole hand.
 
 Other resources
-https://www.youtube.com/watch?v=nmP8iGaPbeI
-https://youtu.be/2yF-SJcg3zQ?si=b7RXZ437qlvX1y17
-https://github.com/LucidVR/lucidgloves
-https://github.com/ras-marques/ImmersiveGloves
+* [Potentiometer based glove (part 1)](https://www.youtube.com/watch?v=nmP8iGaPbeI)
+* [Potentiometer based glove (part 2)](https://youtu.be/2yF-SJcg3zQ?si=b7RXZ437qlvX1y17)
+* [Potentiometer based glove (repo)](https://github.com/LucidVR/lucidgloves)
+* [IMU based gloves (repo)](https://github.com/ras-marques/ImmersiveGloves)
 
